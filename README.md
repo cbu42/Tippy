@@ -1,2 +1,2 @@
-# my-project
-Template repository for web-based experiment projects.
+Tippy is a simple calculator app I built for CS 194A.
+
